@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://summerof15.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:kaizhangpostbox@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://summerof15.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-summerof15.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:kaizhangpostbox@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaizhangpostbox@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
-⭐️ From [AVS1508](https://github.com/summerof15)
+⭐️ From [ZHANG kai](https://github.com/summerof15)
