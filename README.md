@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=summerof15&show_icons=true)](https://github.com/summerof15)
+[![kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai-zhang-er&show_icons=true)](https://github.com/kai-zhang-er)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
