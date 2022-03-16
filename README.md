@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SummerOf15/SummerOf15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kai-zhang-er/kai-zhang-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://summerof15.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-summerof15.github.io/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:kaizhangpostbox@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaizhangpostbox@foxmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://kai-zhang-er.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-summerof15.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:kaizhangpostbox@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaizhangpostbox@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
-⭐️ From [ZHANG kai](https://github.com/summerof15)
+⭐️ From [ZHANG kai](https://github.com/kai-zhang-er)
